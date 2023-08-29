@@ -1,0 +1,17 @@
+{
+  "name": "alguiz",
+  "version": "0.1.0",
+  "description": "Algorithmic quiz",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Kurpiewski",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "iconify-icon": "^1.0.8",
+    "jquery": "^3.7.1",
+    "showdown": "^2.1.0"
+  }
+}
