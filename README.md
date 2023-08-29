@@ -1,0 +1,2 @@
+# Alguiz
+ Algorithmic quiz
